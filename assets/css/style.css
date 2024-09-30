@@ -38,6 +38,7 @@ body {
     line-height: 15px;
     text-align: center;
     color: white;
+    text-transform: uppercase;
 }
 
 .nav {
@@ -75,6 +76,7 @@ body {
     line-height: 15px;
     text-align: left;
     color: #FFFFFF;
+    text-transform: uppercase;
 }
 
 .phone-number {
@@ -107,7 +109,7 @@ body {
     font-size: 40px;
     line-height: 53.13px;
     text-align: left;
-
+    text-transform: uppercase;
 }
 
 .title-preview span {
