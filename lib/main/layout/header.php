@@ -5,6 +5,8 @@
 
 <head>
     <link type="text/css" rel="stylesheet" href="/assets/css/style.css"/>
+    <script src="/assets/js/mainscript.js" type="text/javascript" ></script>
+
 </head>
 
 
