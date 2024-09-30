@@ -1,0 +1,119 @@
+header {
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+.button-function {
+    background-color: #E3B873;
+    max-width: 200px;
+    max-height: 51px;
+    box-shadow: 0px 5px 20px 0px #E3B8731A;
+}
+
+.button-function-wth-color {
+    max-width: 207px;
+    max-height: 51px;
+    border-radius: 2px 0px 0px 0px;
+    border: 1px solid #FFFFFF;
+}
+
+.button-function-wth-color span {
+    font-family: 'sans-serif';
+    font-size: 11px;
+    font-style: italic;
+    line-height: 15px;
+    text-align: center;
+    color: white;
+}
+
+.button-function span {
+    font-family: 'sans-serif';
+    font-size: 11px;
+    font-style: italic;
+    line-height: 15px;
+    text-align: center;
+    color: white;
+}
+
+.nav {
+    background-color: #000000;
+    width: 100%;
+    margin:0;
+    padding: 0;
+    min-height: 83px;
+}
+.nav-link {
+    max-width: 2600px;
+    min-height: 37px;
+    top: 24px;
+    left: 92px;
+    border-radius: 2px 0px 0px 0px;
+
+}
+
+.title-link {
+    font-family: 'sans-serif';
+    font-size: 15px;
+    line-height: 15px;
+    text-align: left;
+    color: #E3B873;
+    width: 179.74px;
+    min-height: 10px;
+    top: 37px;
+    left: 92px;
+
+}
+
+.nav-link a {
+    font-family: 'sans-serif';
+    font-size: 11px;
+    line-height: 15px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.phone-number {
+    color: #E3B873;
+    font-family: 'sans-serif';
+    font-size: 11px;
+    line-height: 15px;
+    text-align: right;
+    content: '+7 (928) 768-32-39';
+}
+
+.preview {
+    font-family: 'sans-serif';
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 36.01px;
+    text-align: left;
+    max-width: 504px;
+    max-height: 89px;
+    top: 401px;
+    left: 134px;
+}
+
+.title-preview {
+    max-width: 676.11px;
+    max-height: 105px;
+    top: 277px;
+    left: 134px;
+    font-family: 'Yeseva One', serif;
+    font-size: 40px;
+    line-height: 53.13px;
+    text-align: left;
+
+}
+
+.title-preview span {
+    font-family: 'Yeseva One', serif;
+    font-size: 40px;
+    line-height: 53.13px;
+    text-align: left;
+    color: #E3B873;
+}
